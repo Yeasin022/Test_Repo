@@ -1,0 +1,2 @@
+working directory -> stagging area -> local repo. -> remote repo
+Test_Project..... -> git add.......-> git commit..-> git push
