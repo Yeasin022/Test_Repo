@@ -1,2 +1,0 @@
-I'm testing git and github
-but git ignore file is not working
